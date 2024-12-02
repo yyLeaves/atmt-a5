@@ -1,0 +1,12 @@
+{
+ "name": "BLEU",
+ "score": 19.1,
+ "signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.4.3",
+ "verbose_score": "48.9/24.6/14.0/7.9 (BP = 1.000 ratio = 1.195 hyp_len = 4651 ref_len = 3892)",
+ "nrefs": "1",
+ "case": "mixed",
+ "eff": "no",
+ "tok": "13a",
+ "smooth": "exp",
+ "version": "2.4.3"
+}
